@@ -1,16 +1,15 @@
-### Hi there 👋
+# Привет, меня зовут Андрей 👋
 
-<!--
-**AndreyArkhp/AndreyArkhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий front-end разработчик. Учусь в Яндекс.Практикуме.
 
-Here are some ideas to get you started:
+## Технологии и инструменты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS, SCSS
+- JavaScript, ООП
+- React.js
+- Redux
+- Webpack
+- БЭМ
+
+[![HTML](./images/html.svg)](https://www.w3.org/) [![CSS](./images/css.png)](https://www.w3schools.com/css/) [![SCSS](./images/scss.png)](https://sass-lang.com/) [![JS](./images/js.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![React](./images/react.png)](https://reactjs.org/) [![Redux](./images/redux.png)](https://redux.js.org/)
