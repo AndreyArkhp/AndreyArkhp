@@ -24,8 +24,10 @@
 - Webpack
 - БЭМ
 - TypeScript
+- Jest
+- Cypress
 
-[![HTML](./images/html.png)](https://www.w3.org/html) [![CSS](./images/css.png)](https://www.w3schools.com/css/) [![SCSS](./images/scss.png)](https://sass-lang.com/) [![JS](./images/js.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![React](./images/react.png)](https://reactjs.org/) [![Redux](./images/redux.png)](https://redux.js.org/) [![Webpack](./images/webpack.png)](https://webpack.js.org/) [![BEM](./images/bem.png)](https://ru.bem.info/) [![NPM](./images/npm.png)](https://www.npmjs.com/) [![Yarn](./images/yarn.png)](https://yarnpkg.com/) [![Git](./images/git.png)](https://git-scm.com/) [![GitHub](./images/github.png)](https://github.com/) [![VSCode](./images/vscode.png)](https://code.visualstudio.com/) [![Figma](./images/figma.png)](https://www.figma.com/) [![Trello](./images/trello.png)](https://trello.com) [![Codepen](./images/codepen.png)](https://codepen.io/) [![Slack](./images/slack.png)](https://slack.com/) [![TypeScript](./images/typescript.png)](https://www.typescriptlang.org/)
+[![HTML](./images/html.png)](https://www.w3.org/html) [![CSS](./images/css.png)](https://www.w3schools.com/css/) [![SCSS](./images/scss.png)](https://sass-lang.com/) [![JS](./images/js.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![React](./images/react.png)](https://reactjs.org/) [![Redux](./images/redux.png)](https://redux.js.org/) [![Webpack](./images/webpack.png)](https://webpack.js.org/) [![BEM](./images/bem.png)](https://ru.bem.info/) [![NPM](./images/npm.png)](https://www.npmjs.com/) [![Yarn](./images/yarn.png)](https://yarnpkg.com/) [![Git](./images/git.png)](https://git-scm.com/) [![GitHub](./images/github.png)](https://github.com/) [![VSCode](./images/vscode.png)](https://code.visualstudio.com/) [![Figma](./images/figma.png)](https://www.figma.com/) [![Trello](./images/trello.png)](https://trello.com) [![Codepen](./images/codepen.png)](https://codepen.io/) [![Slack](./images/slack.png)](https://slack.com/) [![TypeScript](./images/typescript.png)](https://www.typescriptlang.org/) [![Jest](./images/jest.png)](https://jestjs.io/) [![Cypress](./images/cypress.png)](https://www.cypress.io/)
 
 ## Мои контакты
 
