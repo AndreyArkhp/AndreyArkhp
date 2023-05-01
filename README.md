@@ -1,33 +1,24 @@
 # Привет, меня зовут Андрей 👋
 
-🚀 Я начинающий front-end разработчик
+🚀 Я front-end разработчик
 
-:dart: Стремлюсь работать с настоящими боевыми проектами
+:dart: Стремлюсь развивать свои навыки в front-end разработке, создавать качественные и удобные пользовательские интерфейсы
 
-:telescope: Постоянно учусь новому
+:telescope: Внимательно слежу за технологическими изменениями в отрасли
 
-:clock2: В свободное время решаю задачи на Codewars и читаю технические статьи.
+💪Я работаю с реальными проектами и уверен в своих навыках
 
-💪 Мне нравится писать код
-
-:running: Я люблю бег
+:running: Уделяю время физической активности и спорту
 
 [![](https://www.codewars.com/users/AndreyArkhip/badges/small)](https://www.codewars.com/users/AndreyArkhip)
 
 ## :hammer_and_wrench: Технологии и инструменты
-
-- HTML
-- CSS, SCSS
-- JavaScript, ООП
-- React.js
-- Redux
-- Webpack
-- БЭМ
-- TypeScript
-- Jest
-- Cypress
-
-[![HTML](./images/html.png)](https://www.w3.org/html) [![CSS](./images/css.png)](https://www.w3schools.com/css/) [![SCSS](./images/scss.png)](https://sass-lang.com/) [![JS](./images/js.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![React](./images/react.png)](https://reactjs.org/) [![Redux](./images/redux.png)](https://redux.js.org/) [![Webpack](./images/webpack.png)](https://webpack.js.org/) [![BEM](./images/bem.png)](https://ru.bem.info/) [![NPM](./images/npm.png)](https://www.npmjs.com/) [![Yarn](./images/yarn.png)](https://yarnpkg.com/) [![Git](./images/git.png)](https://git-scm.com/) [![GitHub](./images/github.png)](https://github.com/) [![VSCode](./images/vscode.png)](https://code.visualstudio.com/) [![Figma](./images/figma.png)](https://www.figma.com/) [![Trello](./images/trello.png)](https://trello.com) [![Codepen](./images/codepen.png)](https://codepen.io/) [![Slack](./images/slack.png)](https://slack.com/) [![TypeScript](./images/typescript.png)](https://www.typescriptlang.org/) [![Jest](./images/jest.png)](https://jestjs.io/) [![Cypress](./images/cypress.png)](https://www.cypress.io/)
+- HTML, CSS, SCSS, БЭМ
+- TypeScript, JavaScript, ES6, ООП
+- React js, Redux, Next js
+- Webpackl, npm, git
+- Cypress, Jest
+- Node js, Express, Nest js
 
 ## Мои контакты
 
