@@ -12,18 +12,37 @@
 ### Frontend:
 - **HTML, CSS (SCSS), БЭМ**
 - **JavaScript (ES6+), TypeScript**
-- **React, Redux, Next.js**
-- **Cypress, Jest** (тестирование)
+- **React, Redux, RTK Query, Redux Sliceб**
+- **React Router DOM**
+- **Next.js**
+- **i18next**
+- **Ag-Grid**
+- **Storybook**
+- **Cypress, Jest, Vitest**
+- **Vite**
 
 ### Backend:
 - **Node.js, Express, Nest.js**
-- **REST API, GraphQL**
-- **Базы данных: PostgreSQL, MongoDB**
+- **REST API**
+- **PostgreSQL, MongoDB, TypeORM**
+- **JWT, Passport.js**
+- **Excel-импорт/экспорт**
+- **Уведомления по email**
 
 ### Инструменты:
-- **Webpack, npm/yarn**
+- **Webpack, Vite**
 - **Git, GitHub/GitLab**
 - **Docker, CI/CD**
+- **ESLint, Prettier**
+- **Облачные платформы (деплой и бэкапы)**
+
+### Дополнительные навыки:
+- **Проектирование и реализация пользовательских интерфейсов**
+- **Оптимизация сборки и производительности**
+- **Интеграция сторонних библиотек и API**
+- **Документирование и тестирование кода**
+- **Управление состоянием приложения**
+- **Деплой и поддержка проектов**
 
 [![](https://www.codewars.com/users/AndreyArkhip/badges/small)](https://www.codewars.com/users/AndreyArkhip)
 
